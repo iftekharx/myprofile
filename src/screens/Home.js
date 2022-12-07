@@ -19,7 +19,7 @@ function Home() {
           <br />
           <br />
           <Container className="d-flex justify-content-center">
-            <img src="images/pic.jpeg" alt="Profile Picture" />
+            <img src={'./myprofile/images/pic.jpeg'} alt="Profile Picture" />
           </Container>
         </section>
         <Container className="d-flex justify-content-center">

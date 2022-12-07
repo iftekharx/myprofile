@@ -13,7 +13,7 @@ function TechSkills() {
           </b>{' '}
           <p>
             <b>Java</b>, <b>Python</b>, C, C++,{' '}
-            <b>PHP, HTML, CSS, JavaScript</b>Latex
+            <b>PHP, HTML, CSS, JavaScript</b>, Latex
           </p>
           <b>
             {' '}
@@ -33,11 +33,8 @@ function TechSkills() {
             <p>Version Control: </p>
           </b>
           <p>GitHub, Git</p>
-          <b>
-            {' '}
-            <p>Version Control: </p>
-          </b>
-          <p>GitHub, Git</p>
+          <b> </b>
+          <p></p>
           <b>
             {' '}
             <p>Cloud platform used</p>
