@@ -14,14 +14,7 @@ function Home() {
   return (
     <div className="d-flex justify-content-center about">
       <Column>
-        <section id="home">
-          {' '}
-          <br />
-          <br />
-          <Container className="d-flex justify-content-center">
-            <img src={'images/pic.jpeg'} alt="Profile Picture" />
-          </Container>
-        </section>
+        <section id="home"></section>
         <Container className="d-flex justify-content-center">
           <h1>Iftekhar Hyder</h1>
         </Container>
@@ -33,7 +26,6 @@ function Home() {
         <Publications></Publications>
         <Projects></Projects>
         <TechSkills></TechSkills>
-        <PersonalInfo></PersonalInfo>
       </Column>
     </div>
   );

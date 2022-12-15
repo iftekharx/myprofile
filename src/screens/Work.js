@@ -37,16 +37,6 @@ function Work() {
             </Container>
           </p>
         </Container>
-        <Container>
-          <p>
-            <b>Hacker Rank</b>
-            <br />
-            Hacker Rank Account Link:{' '}
-            <a href="https://www.hackerrank.com/iftekhar814?hr_r=1">
-              https://www.hackerrank.com/iftekhar814?hr_r=1
-            </a>
-          </p>
-        </Container>
       </section>
     </div>
   );
