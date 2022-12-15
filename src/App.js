@@ -25,7 +25,6 @@ function App() {
                 <Nav.Link href="#publications">Publications</Nav.Link>
                 <Nav.Link href="#projects">Projects</Nav.Link>
                 <Nav.Link href="#techskills">Technical Skills</Nav.Link>
-                <Nav.Link href="#personalinfo">Personal Information</Nav.Link>
               </Nav>
             </Container>
           </Navbar>

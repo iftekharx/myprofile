@@ -7,7 +7,6 @@ import Objective from './Objective';
 import Work from './Work';
 import Publications from './Publications';
 import Projects from './Projects';
-import PersonalInfo from './PersonalInfo';
 import TechSkills from './TechSkills';
 
 function Home() {
