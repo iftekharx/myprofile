@@ -18,7 +18,6 @@ function Education() {
           <p>
             <i> United International University, Dhaka, Bangladesh</i>
           </p>
-          <p> CGPA 3.30 out of 4.00</p>
         </Container>
       </section>
     </div>
